@@ -1,0 +1,15 @@
+label{
+    display: block;
+}
+*{
+    margin: 0;
+}
+form{
+    display: inline-block;
+}
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
